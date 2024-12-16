@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20the%20Paradise%20%F0%9F%8C%B8&animation=fadeIn&type=waving&color=ff0000,aa0033,880022&height=150&fontColor=ffffff&fontAlignY=35"/>
+</p>
 
 <!--
 **savoiu-larisa-elena/savoiu-larisa-elena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
