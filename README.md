@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=❤️✨%20Welcome!!!%20✨❤️&animation=fadeIn&type=waving&color=gradient&height=90&fontColor=000000&fontAlignY=35"/>
-</p>
+</p> 
 
 <!--
 **savoiu-larisa-elena/savoiu-larisa-elena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
