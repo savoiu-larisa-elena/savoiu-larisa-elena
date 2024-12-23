@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Hey there! I'm Larisa Săvoiu, a second-year Computer Science student at Universitatea Babeș-Bolyai. Passionate about problem-solving, coding, and creating meaningful projects, I'm always looking for ways to grow and make an impact. 🌱
 
 ## ✨ What I Do
-- 💻 Currently diving into AI and planning my bachelor's thesis on this fascinating field.
-- 🛠️ Volunteering in Image & PR and Tineret for OSUBB, where I combine creativity with organizational skills.
+- 📕 Currently diving into AI and planning my bachelor's thesis on this fascinating field.
+- 🎀 Volunteering in Image & PR and Tineret for OSUBB, where I combine creativity with organizational skills.
 - 📌 Working on a lot of personal projects that I will graduately add in here.
 
 <p align="center"> 🌟✨ Let's connect, create, and explore the world of code together! ✨🌟 </p>
