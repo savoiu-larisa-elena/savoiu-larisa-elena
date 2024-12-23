@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## ❤️ About Me
-Hey there! I'm Larisa Săvoiu, a second-year Computer Science student at Universitatea Babeș-Bolyai. Passionate about problem-solving, coding, and creating meaningful projects, I'm always looking for ways to grow and make an impact. 🌱
+Hey there! I'm Săvoiu Larisa-Elena, a second-year Computer Science student at Universitatea Babeș-Bolyai. Passionate about problem-solving, coding, and creating meaningful projects, I'm always looking for ways to grow and make an impact. 🌱
 
 ## ✨ What I Do
 - 📕 Currently diving into AI and planning my bachelor's thesis on this fascinating field.
