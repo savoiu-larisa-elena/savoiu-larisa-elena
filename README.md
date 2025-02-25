@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## ❤️ About Me
-Hello! I'm Săvoiu Larisa-Elena, a second-year Computer Science student at Universitatea Babeș-Bolyai, with a strong passion for problem-solving, software development, and impactful projects. Skilled in coding, algorithmic thinking, and teamwork, I am eager to apply my knowledge to real-world challenges while continuously learning and growing.
+Hello! I Săvoiu Larisa-Elena and I am a driven second-year Computer Science student at Universitatea Babeș-Bolyai with a proven track record of leadership through volunteer work. I combine strong technical foundations with practical problem-solving abilities and exceptional attention to detail. Through my volunteering initiatives, I have developed natural team collaboration skills while maintaining academic excellence. I am seeking opportunities to contribute to innovative technology projects where I can leverage my technical knowledge, collaborative spirit, and continuous learning mindset to deliver meaningful solutions.
 
 ## ✨ What I Do
 - 📕 Currently diving into AI and planning my bachelor's thesis on this fascinating field.
